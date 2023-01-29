@@ -1,4 +1,7 @@
 # truss-solver
+
+This is code from my begining in python i know its messy, i have ideas how i can improve it but i focused on new projects insted of improve it.
+
 A simple application to calculate displacements of truss structures
 A simple application to calculate displacements of truss structures
 
